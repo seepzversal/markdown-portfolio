@@ -1,14 +1,15 @@
----
-layout: default
----
 
-{% include 01-name.md %}
 
-<br>
+🧑‍🚀 
 
-{% include 02-image.md %}
+🇮🇳
 
-<br>
 
-{% include 03-links.md %}
+1. Fruits
+  1. Apples
+  2. Mangoes
 
+* Animals
+  * Dogs
+  * Cats
+  * Horses
